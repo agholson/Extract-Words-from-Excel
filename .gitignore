@@ -1,0 +1,7 @@
+venv
+bold_words.txt
+italic_words.txt
+underline_words.txt
+ExtractText.xlsx
+.DS_Store
+.idea
